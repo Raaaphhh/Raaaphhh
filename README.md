@@ -1,6 +1,4 @@
-# Hi there 👋
-
-## I am a Junior SoftWare Engineer 
+Junior SoftWare Engineer 
 
 <!--
 **Raaaphhh/Raaaphhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
