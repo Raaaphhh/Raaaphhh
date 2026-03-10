@@ -1,16 +1,58 @@
-# Junior Software Engineer 
+# 👋 Hello, I'm Raphaël Descamps (Raaaphhh)
 
-<!--
-**Raaaphhh/Raaaphhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Software Engineer passionate about development since the age of 13.
 
-Here are some ideas to get you started:
+I enjoy building web applications, experimenting with new technologies, and creating useful tools and projects.  
+Currently studying **BTS SIO (Software Development)** and working in **alternance** while developing personal projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- HTML
+- CSS
+- JavaScript
+- Python
+- C#
+- SQL
+
+### Frameworks & Libraries
+- ASP.NET Core
+- Bootstrap
+- TailwindCSS
+- SwiftUI (learning)
+
+### Tools & Technologies
+- Git & GitHub
+- VS Code
+- Docker
+- SQL Server
+- PostgreSQL
+- Firebase
+- Rider (JetBrains)
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raaaphhh&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raaaphhh&layout=compact&theme=radical)
+
+---
+
+## 🎯 Currently Learning
+- Ruby
+- Computer Science
+- AI
+
+---
+
+## 📫 Contact
+
+- 💼 LinkedIn: [https://linkedin.com/in/tonprofil]
+- 📧 Email: [dcpraphael@gmail.com]
+- 🌐 Portfolio: []
+
+---
+
+⭐️ From [Raaaphhh](https://github.com/Raaaphhh)
