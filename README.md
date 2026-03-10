@@ -1,18 +1,19 @@
-# 👋 Hello, I'm Raphaël Descamps (Raaaphhh)
+# I'm Raphaël Descamps aka (Raaaphhh)
 
-💻 Junior Software Engineer passionate about development since the age of 13.
+Junior Software Engineer
+Passionate about development since the age of 13.
 
-I enjoy building web applications, experimenting with new technologies, and creating useful tools and projects.  
 Currently studying **BTS SIO (Software Development)** and working in **alternance** while developing personal projects.
 
 ---
 
-## 🛠️ Tech Stack
+## My Tech Stack
 
 ### Languages
 - HTML
 - CSS
-- JavaScript
+- JavaScript (learning)
+- Php
 - Python
 - C#
 - SQL
@@ -26,6 +27,7 @@ Currently studying **BTS SIO (Software Development)** and working in **alternanc
 ### Tools & Technologies
 - Git & GitHub
 - VS Code
+- Visual Studio
 - Docker
 - SQL Server
 - PostgreSQL
@@ -40,14 +42,7 @@ Currently studying **BTS SIO (Software Development)** and working in **alternanc
 
 ---
 
-## 🎯 Currently Learning
-- Ruby
-- Computer Science
-- AI
-
----
-
-## 📫 Contact
+## Contact
 
 - 💼 LinkedIn: [https://linkedin.com/in/tonprofil]
 - 📧 Email: [dcpraphael@gmail.com]
