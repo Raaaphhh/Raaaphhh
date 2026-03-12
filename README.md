@@ -44,10 +44,10 @@ Currently studying **BTS SIO (Software Development)** and working in **alternanc
 
 ## Contact
 
-- 💼 LinkedIn: [https://linkedin.com/in/tonprofil]
-- 📧 Email: [dcpraphael@gmail.com]
-- 🌐 Portfolio: []
+- LinkedIn: [https://linkedin.com/in/tonprofil]
+- Email: [dcpraphael@gmail.com]
+- Portfolio: []
 
 ---
 
-⭐️ From [Raaaphhh](https://github.com/Raaaphhh)
+From [Raaaphhh](https://github.com/Raaaphhh)
