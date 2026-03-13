@@ -17,6 +17,8 @@ Currently studying **BTS SIO (Software Development)** and working in **alternanc
 - Python
 - C#
 - SQL
+- C/C++ (leraning)
+- Ruby (learning)
 
 ### Frameworks & Libraries
 - ASP.NET Core
@@ -34,7 +36,7 @@ Currently studying **BTS SIO (Software Development)** and working in **alternanc
 - Firebase
 - Rider (JetBrains)
 
-## 📈 GitHub Stats
+## Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raaaphhh&show_icons=true&theme=radical)
 
