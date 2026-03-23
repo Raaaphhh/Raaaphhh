@@ -36,12 +36,6 @@ Currently studying **BTS SIO (Software Development)** and working in **alternanc
 - Firebase
 - Rider (JetBrains)
 
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raaaphhh&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raaaphhh&layout=compact&theme=radical)
-
 ---
 
 ## Contact
