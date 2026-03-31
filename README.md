@@ -1,4 +1,4 @@
-# <I'm Raphaël Descamps aka (Raaaphhh)>
+I'm Raphaël Descamps aka (Raaaphhh)
 
 Junior Software Engineer
 Passionate about development since 13.
